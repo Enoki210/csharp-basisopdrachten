@@ -1,4 +1,4 @@
-﻿namespace eersteles
+﻿namespace opdracht_1
 {
     internal class Program
     {
@@ -15,8 +15,8 @@
             age += howold;
 
 
-            Console.WriteLine($"Hallo Buurman {name}");
-            Console.WriteLine($"{age}");
+            Console.WriteLine($"Naam: {name}");
+            Console.WriteLine($"Leeftijd: {age}");
         }
     }
 }
